@@ -1,1 +1,3 @@
-<iframe width="100%" height="100%" src="./content.html"></iframe>
+<p align="center">
+<img src="./prf.jpg" width="200px" alt="Hossein Araghi"> 
+</p>
