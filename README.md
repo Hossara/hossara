@@ -3,7 +3,7 @@
 <div align="center">
 <img src="./prf.png" width="200px" alt="Hossein Araghi"> 
 
-## Hossein Araghi 
+<h1>Hossein Araghi</h1>
 Fullstack Developer
 
 [YasTech](https://github.com/YasTechOrg) | [Website](https://hossara.com) |
