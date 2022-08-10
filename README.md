@@ -1,1 +1,1 @@
-![content](./content.svg)
+<img src="./content.svg" alt="content">
