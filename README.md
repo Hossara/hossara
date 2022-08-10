@@ -2,10 +2,8 @@
 
 <div align="center">
 <img src="./prf.png" width="200px" alt="Hossein Araghi"> 
-<br>
-<font size="20px">
-<strong>Hossein Araghi</strong>
-</font>
+
+<h1 style="border-bottom: none">Hossein Araghi</h1>
 
 Fullstack Developer
 
