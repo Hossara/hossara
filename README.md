@@ -3,7 +3,7 @@
 <div align="center">
 <img src="./prf.png" width="200px" alt="Hossein Araghi"> 
 
-##### <h1>Hossein Araghi</h1> <br> Software Engineer
+# <h1>Hossein Araghi <br> <sub>Software Engineer</sub></h1>
 
 
 [YasTech](https://github.com/YasTechOrg) | [Website](https://hossara.com) |
