@@ -1,4 +1,4 @@
-![Hossein Araghi](./banner.png)
+![Hossein Araghi](./content.png)
 <div align="center">
 
 [YasTech](https://github.com/YasTechOrg) | [Website](https://hossara.com) |
