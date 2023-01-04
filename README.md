@@ -20,11 +20,26 @@
             //    \\               ///-._ _ _ _ _ _ _{^ - - - - ~
 ```
 
-#### If you want to donate me, [buy me a coffee 😉](https://coffeebede.ir/hossara)
+### Contact me
+<p>
+  <a href="https://github.com/Hossara">
+    <img src="https://img.shields.io/badge/github-blue.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.linkedin.com/in/hossara">
+    <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.instagram.com/hossara.dev/">
+    <img src="https://img.shields.io/badge/instagram-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a> 
+  <a href="https://medium.com/@MokkappsDev">
+    <img src="https://img.shields.io/badge/website-blue.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" height=25>
+  </a> <a href="https://dev.to/mokkapps">
+    <img src="https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
+  </a>
+</p>
 
-- **Contact me**
-  - [YasTech](https://github.com/YasTechOrg)
-  - [Website](https://hossara.com)
-  - [LinkedIn](https://linkedin.com/in/hossara)
-  - [Instagram](https://instagram.com/hossara.dev)
-  - [Email](mailto:hoseinaraghi84@gmail.com)
+### Donate me
+
+<a href="https://coffeebede.ir/hossara">
+  <img src="https://img.shields.io/badge/buy me a coffee-darkgreen.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" height=30>
+</a>
