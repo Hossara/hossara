@@ -28,16 +28,16 @@
   <a href="https://www.linkedin.com/in/hossara">
     <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
-  <a href="https://www.instagram.com/hossara.dev/">
+  <a href="https://www.instagram.com/hossara.dev">
     <img src="https://img.shields.io/badge/instagram-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a> 
-  <a href="https://medium.com/@MokkappsDev">
+  <a href="https://hossara.com">
     <img src="https://img.shields.io/badge/website-blue.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" height=25>
   </a> 
-  <a href="https://dev.to/mokkapps">
+  <a href="https://t.me/hossara">
     <img src="https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
   </a>
-  <a href="https://dev.to/mokkapps">
+  <a href="mailto:hoseinaraghi84@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue.svg?&style=for-the-badge&logo=maildotru&logoColor=white" height=25>
   </a>
 </p>
