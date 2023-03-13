@@ -1,3 +1,5 @@
+# Hi:wave:, I'm Hossein Araghi
+
 ### My Socials and Contact me
 <p>
   <a href="https://github.com/Hossara">
@@ -51,4 +53,5 @@
 
 ### Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Hossara&amp;show_icons=true" alt="GitHub Stats"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossara&layout=compact&theme=dracula" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hossara&amp;show_icons=true&hide=prs,issues&theme=dracula" alt="GitHub Stats">
