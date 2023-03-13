@@ -20,9 +20,6 @@
   <a href="mailto:hoseinaraghi84@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue.svg?&style=for-the-badge&logo=maildotru&logoColor=white" height=25>
   </a>
-  <a href="https://www.youtube.com/@Levelup_learn">
-    <img src="https://img.shields.io/badge/Youtube-blue.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
-  </a>
 </p>
 
 ### Skills
