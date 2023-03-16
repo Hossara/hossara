@@ -53,6 +53,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossara&layout=compact&theme=dracula" alt="Most used languages"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Hossara&amp;show_icons=true&hide=prs,issues&theme=dracula" alt="GitHub Stats">
 
-### Working on
-- [TakiTaki backend](https://github.com/Hossara/takitaki_backend)
-- [TakiTaki webapp](https://github.com/Hossara/takitaki_webapp)
+### Currently working on
+- [TakiTaki](https://github.com/Hossara/takitaki)
