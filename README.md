@@ -5,6 +5,9 @@
   <a href="https://github.com/Hossara">
     <img src="https://img.shields.io/badge/github-blue.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
   </a> 
+  <a href="https://gitlab.com/Hossara">
+    <img src="https://img.shields.io/badge/gitlab-blue.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height=25>
+  </a> 
   <a href="https://www.linkedin.com/in/hossara">
     <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
