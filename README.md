@@ -1,50 +1,18 @@
-# Hi:wave:, I'm Hossein Araghi
+#  Hi :wave:, I'm Hossein Araghi,
+### ✨ I'm a Software engineer and a Full-stack developer
+### ✨ I'm currently working in [Actin health](https://actinhealth.ir) company as a Software engineer 
+### ✨ Now i'm working with Js stack: 
+`Nest.js`, `Nuxt.js`, `Vue.js`, `Node.js`, `Tailwindcss` 
 
-### My Socials and Contact me
-<p>
-  <a href="https://github.com/Hossara">
-    <img src="https://img.shields.io/badge/github-blue.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
-  </a> 
-  <a href="https://gitlab.com/Hossara">
-    <img src="https://img.shields.io/badge/gitlab-blue.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.linkedin.com/in/hossara">
-    <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.instagram.com/hossara.dev">
-    <img src="https://img.shields.io/badge/instagram-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a> 
-  <a href="https://hossara.com">
-    <img src="https://img.shields.io/badge/website-blue.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" height=25>
-  </a> 
-  <a href="https://t.me/hossara">
-    <img src="https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
-  </a>
-  <a href="mailto:hoseinaraghi84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue.svg?&style=for-the-badge&logo=maildotru&logoColor=white" height=25>
-  </a>
-</p>
+### ✨ although i had many years experience in workin with:
+`Kotlin`, `Java`, `Python`, `FastApi`, `A little php, c#, django, c, c++` 
 
-### Skills
+### ✨ I really adore and love `DevOps`, `Linux` and `Network` so, i had experience in working with:
+`Docker`, `Ubuntu`, `CentOS`, `Cpanel and WHMCS`, `CircleCI`, `GitHub CI`, `Jetbrains space`, `Nginx`, `Apache` 
 
-<p>
-  <img src="https://img.shields.io/badge/kotlin-blue.svg?&style=for-the-badge&logo=kotlin&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/spring boot-blue.svg?&style=for-the-badge&logo=spring&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/vue.js-blue.svg?&style=for-the-badge&logo=vue.js&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/nuxt.js-blue.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/mongodb-blue.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/docker-blue.svg?&style=for-the-badge&logo=docker&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/linux-blue.svg?&style=for-the-badge&logo=linux&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/jetbrains-blue.svg?&style=for-the-badge&logo=intellijidea&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/c, c++-blue.svg?&style=for-the-badge&logo=c&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/figma-blue.svg?&style=for-the-badge&logo=figma&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/bash-blue.svg?&style=for-the-badge&logo=gnubash&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/circle ci-blue.svg?&style=for-the-badge&logo=circleci&logoColor=white" height=22>
-  <img src="https://img.shields.io/badge/github-blue.svg?&style=for-the-badge&logo=github&logoColor=white" height=22>
-</p>
-
+### 📋 Read more about me and my expeience in my [LinkedIn](https://linkedin.com/in/hossara)
+### ✉️ Contact me using my [Email](mailto:hossara.dev@gmail.com)
+ 
 ### Donate me
 
 <a href="https://coffeebede.ir/hossara">
@@ -54,8 +22,3 @@
 ### Github Status
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossara&layout=compact&theme=dracula" alt="Most used languages"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Hossara&amp;show_icons=true&hide=prs,issues&theme=dracula" alt="GitHub Stats">
-
-### Currently working on
-- [TakiTaki](https://github.com/Hossara/takitaki)
-- [Personal website](https://github.com/Hossara/hossara.com)
