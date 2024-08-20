@@ -1,11 +1,11 @@
 #  Hi :wave:, I'm Hossein Araghi,
-### ✨ I'm a Software engineer and a Full-stack developer
-### ✨ I'm currently working in [Actin health](https://actinhealth.ir) company as a Software engineer 
-### ✨ Now i'm working with Js stack: 
+### ✨ I'm a Software engineer.
+### ✨ I'm currently working in [Fakher holding](https://fakher.ir) company as a Software engineer 
+### ✨ My main stack is: 
 `Nest.js`, `Nuxt.js`, `Vue.js`, `Node.js`, `Tailwindcss` 
 
-### ✨ although i had many years experience in workin with:
-`Kotlin`, `Java`, `Python`, `FastApi`, `A little php, c#, django, c, c++` 
+### ✨ I'm currently learning:
+`Go`, `Microservice`, `System Design`, `DevOps`, `Network`
 
 ### ✨ I really adore and love `DevOps`, `Linux` and `Network` so, i had experience in working with:
 `Docker`, `Ubuntu`, `CentOS`, `Cpanel and WHMCS`, `CircleCI`, `GitHub CI`, `Jetbrains space`, `Nginx`, `Apache` 
