@@ -10,7 +10,7 @@
 `Docker`, `Ubuntu`, `CentOS`, `Cpanel and WHMCS`, `CircleCI`, `GitHub CI`, `Jetbrains space`, `Nginx`, `Apache` 
 
 ### 📋 Read more about me and my expeience in my [LinkedIn](https://linkedin.com/in/hossara)
-### ✉️ Contact me using my [Email](mailto:hossara.dev@gmail.com)
+### ✉️ Contact me using my [Email](mailto:hossara.dev@gmail.com) or my [LinkedIn](https://linkedin.com/in/hossara)
  
 ### Donate me
 
