@@ -1,6 +1,5 @@
 #  Hi :wave:, I'm Hossein Araghi,
-### ✨ I'm a Software engineer.
-### ✨ I'm currently working in [Fakher holding](https://fakher.ir) company as a Software engineer 
+### ✨ I'm a Software Engineer.
 ### ✨ My main stack is: 
 `Nest.js`, `Nuxt.js`, `Vue.js`, `Node.js`, `Tailwindcss` 
 
