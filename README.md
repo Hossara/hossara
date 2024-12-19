@@ -1,13 +1,10 @@
 #  Hi :wave:, I'm Hossein Araghi,
 ### ✨ I'm a Software Engineer.
 ### ✨ My main stack is: 
-`Nest.js`, `Nuxt.js`, `Vue.js`, `Node.js`, `Tailwindcss` 
+`Go` `Fiber` `Nest.js`, `Nuxt.js` 
 
 ### ✨ I'm currently learning:
-`Go`, `Microservice`, `System Design`, `DevOps`, `Network`
-
-### ✨ I really adore and love `DevOps`, `Linux` and `Network` so, i had experience in working with:
-`Docker`, `Ubuntu`, `CentOS`, `Cpanel and WHMCS`, `CircleCI`, `GitHub CI`, `Jetbrains space`, `Nginx`
+`Microservice`, `System Design`, `DevOps`
 
 ### 📋 Read more about me and my expeience in my [LinkedIn](https://linkedin.com/in/hossara)
 ### ✉️ Contact me using my [Email](mailto:hossara.dev@gmail.com) or my [LinkedIn](https://linkedin.com/in/hossara)
