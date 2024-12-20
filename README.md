@@ -6,8 +6,7 @@
 ### ✨ I'm currently learning:
 `Microservice`, `System Design`, `DevOps`
 
-### 📋 Read more about me and my expeience in my [LinkedIn](https://linkedin.com/in/hossara)
-### ✉️ Contact me using my [Email](mailto:hossara.dev@gmail.com) or my [LinkedIn](https://linkedin.com/in/hossara)
+### ✉️ Contact me by [Email](mailto:hossara.dev@gmail.com) or my [LinkedIn](https://linkedin.com/in/hossara)
  
 ### Donate me
 
