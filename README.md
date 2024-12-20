@@ -4,7 +4,7 @@
 `Go` `Fiber` `Nest.js`, `Nuxt.js` 
 
 ### ✨ I'm currently learning:
-`Microservice`, `System Design`, `DevOps`
+`Microservice`, `System Design`, `Kubernetes`, `DevOps`
 
 ### ✉️ Contact me by [Email](mailto:hossara.dev@gmail.com) or my [LinkedIn](https://linkedin.com/in/hossara)
  
