@@ -1,10 +1,11 @@
 #  Hi :wave:, I'm Hossein Araghi,
 ### ✨ I'm a Software Engineer.
+With nearly three years of professional experience, specializing in backend development with Go and JavaScript-based technologies. Experienced in building scalable applications using Go, NestJS, and NuxtJS. Skilled in DevOps tools like Docker and CI/CD platforms, with a solid understanding of networking and cloud infrastructure. Familiar with Agile methodologies, particularly Scrum. Passionate about problem-solving, improving system design, and collaborating with teams to deliver high-quality software. Always eager to learn, optimize, and share knowledge.
 ### ✨ My main stack is: 
 `Go` `Fiber` `Nest.js`, `Nuxt.js` 
 
 ### ✨ I'm currently learning:
-`Microservice`, `System Design`, `Kubernetes`, `DevOps`
+`Microservice`, `System Design`, `Kubernetes`, `DevOps`, `Software Engineering Concepts`
 
 ### ✉️ Contact me by [Email](mailto:hossara.dev@gmail.com) or my [LinkedIn](https://linkedin.com/in/hossara)
  
