@@ -10,6 +10,7 @@ With nearly **three** years of professional experience, specializing in backend 
 ### ✉️ Contact me by [Email](mailto:hossara.dev@gmail.com) or my [LinkedIn](https://linkedin.com/in/hossara)
 
 ### Github Status
+My rank in the list of most active GitHub users in Iran over the past year:
 [![committers.top badge](https://user-badge.committers.top/iran_private/Hossara.svg)](https://user-badge.committers.top/iran_private/Hossara)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossara&layout=compact&theme=dracula" alt="Most used languages"/>
