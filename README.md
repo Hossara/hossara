@@ -9,8 +9,9 @@ With nearly **three** years of professional experience, specializing in backend 
 `Microservice`, `System Design`, `Kubernetes`, `DevOps`, `Software Engineering Concepts`
 
 ### ✉️ Contact me
-- ### [My Email](mailto:hossara.dev@gmail.com) 
-- ### [My LinkedIn](https://linkedin.com/in/hossara)
+> [![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossara.dev@gmail.com) 
+> [![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossara)
+> [![My Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hossara_dev)
 
 ### 📊 Github stats
 My rank in the list of most active GitHub users in Iran over the past year:
@@ -21,7 +22,7 @@ My rank in the list of most active GitHub users in Iran over the past year:
 ##### By Commit:
 [![committers.top badge](https://user-badge.committers.top/iran/Hossara.svg)](https://user-badge.committers.top/iran/Hossara)
 
-#### Other stats:
+### Other stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossara&layout=compact&theme=dracula" alt="Most used languages"/>
 
 ![Hossara's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossara&show_icons=true&theme=dark)
